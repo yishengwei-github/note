@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as n,a,b as o}from"./app-831adc53.js";const s={};function c(d,e){return t(),n("div",null,e[0]||(e[0]=[a("h1",{id:"其他学习",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#其他学习","aria-hidden":"true"},"#"),o(" 其他学习")],-1)]))}const l=r(s,[["render",c],["__file","index.html.vue"]]);export{l as default};
